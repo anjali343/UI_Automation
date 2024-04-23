@@ -1,0 +1,553 @@
+2024-04-21 16:47:05,932 :INFO : test_delete_products_from_card :Please enter product to delete, Basket is empty.
+2024-04-21 16:47:31,619 :INFO : test_delete_products_from_card :Please enter product to delete, Basket is empty.
+2024-04-21 20:00:35,670 :INFO : test_delete_products_from_card :Please enter product to delete, Basket is empty.
+2024-04-21 20:01:42,811 :INFO : test_delete_products_from_card :Please enter product to delete, Basket is empty.
+2024-04-21 20:02:47,275 :INFO : test_delete_products_from_card :Please enter product to delete, Basket is empty.
+2024-04-21 20:04:58,256 :INFO : test_delete_products_from_card :Please enter product to delete, Basket is empty.
+2024-04-21 20:06:26,473 :INFO : test_delete_products_from_card :Please enter product to delete, Basket is empty.
+2024-04-21 20:07:18,298 :INFO : test_delete_products_from_card :Please enter product to delete, Basket is empty.
+2024-04-21 20:08:14,854 :INFO : test_delete_products_from_card :Please enter product to delete, Basket is empty.
+2024-04-22 07:34:13,404 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 07:34:16,068 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 07:36:31,544 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 07:36:34,294 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 07:37:22,775 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 07:37:27,938 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 09:05:51,688 :INFO : test_valid_registration :After clicking of register button check message displayed.
+2024-04-22 09:05:58,759 :INFO : test_valid_registration :After clicking of register button check message displayed.
+2024-04-22 09:05:58,759 :INFO : test_valid_registration :After clicking of register button check message displayed.
+2024-04-22 09:06:18,781 :INFO : test_valid_registration :After clicking of register button check message displayed.
+2024-04-22 09:08:03,239 :INFO : test_valid_registration :After clicking of register button check message displayed.
+2024-04-22 09:08:07,120 :INFO : test_valid_registration :After clicking of register button check message displayed.
+2024-04-22 09:08:07,120 :INFO : test_valid_registration :After clicking of register button check message displayed.
+2024-04-22 09:09:51,030 :INFO : test_valid_registration :After clicking of register button check message displayed.
+2024-04-22 09:09:58,850 :INFO : test_valid_registration :After clicking of register button check message displayed.
+2024-04-22 09:09:58,850 :INFO : test_valid_registration :After clicking of register button check message displayed.
+2024-04-22 09:10:26,023 :INFO : test_valid_registration :After clicking of register button check message displayed.
+2024-04-22 09:10:30,040 :INFO : test_valid_registration :After clicking of register button check message displayed.
+2024-04-22 09:10:30,040 :INFO : test_valid_registration :After clicking of register button check message displayed.
+2024-04-22 09:49:35,611 :INFO : test_valid_login :Check message after clicking on login button
+2024-04-22 09:50:00,327 :INFO : test_valid_login :Check message after clicking on login button
+2024-04-22 09:50:00,327 :INFO : test_valid_login :Check message after clicking on login button
+2024-04-22 09:50:07,793 :INFO : test_valid_login :Check message after clicking on login button
+2024-04-22 09:50:07,793 :INFO : test_valid_login :Check message after clicking on login button
+2024-04-22 09:50:07,793 :INFO : test_valid_login :Check message after clicking on login button
+2024-04-22 09:50:15,042 :INFO : test_valid_login :Check message after clicking on login button
+2024-04-22 09:50:15,042 :INFO : test_valid_login :Check message after clicking on login button
+2024-04-22 09:50:15,042 :INFO : test_valid_login :Check message after clicking on login button
+2024-04-22 09:50:15,042 :INFO : test_valid_login :Check message after clicking on login button
+2024-04-22 10:22:29,337 :INFO : test_valid_login :Check message after clicking on login button
+2024-04-22 10:22:32,605 :INFO : test_valid_login :Check message after clicking on login button
+2024-04-22 10:22:32,605 :INFO : test_valid_login :Check message after clicking on login button
+2024-04-22 10:22:40,314 :INFO : test_valid_login :Check message after clicking on login button
+2024-04-22 10:22:40,314 :INFO : test_valid_login :Check message after clicking on login button
+2024-04-22 10:22:40,314 :INFO : test_valid_login :Check message after clicking on login button
+2024-04-22 10:22:47,509 :INFO : test_valid_login :Check message after clicking on login button
+2024-04-22 10:22:47,509 :INFO : test_valid_login :Check message after clicking on login button
+2024-04-22 10:22:47,509 :INFO : test_valid_login :Check message after clicking on login button
+2024-04-22 10:22:47,509 :INFO : test_valid_login :Check message after clicking on login button
+2024-04-22 10:25:23,002 :INFO : test_valid_registration :After clicking of register button check message displayed.
+2024-04-22 10:25:30,763 :INFO : test_valid_registration :After clicking of register button check message displayed.
+2024-04-22 10:25:30,763 :INFO : test_valid_registration :After clicking of register button check message displayed.
+2024-04-22 10:25:41,834 :INFO : test_valid_registration :After clicking of register button check message displayed.
+2024-04-22 10:25:49,003 :INFO : test_valid_registration :After clicking of register button check message displayed.
+2024-04-22 10:25:49,003 :INFO : test_valid_registration :After clicking of register button check message displayed.
+2024-04-22 10:26:02,515 :INFO : test_valid_registration :After clicking of register button check message displayed.
+2024-04-22 10:26:06,718 :INFO : test_valid_registration :After clicking of register button check message displayed.
+2024-04-22 10:26:06,718 :INFO : test_valid_registration :After clicking of register button check message displayed.
+2024-04-22 10:27:11,829 :INFO : test_valid_login :Check message after clicking on login button
+2024-04-22 10:27:15,458 :INFO : test_valid_login :Check message after clicking on login button
+2024-04-22 10:27:15,458 :INFO : test_valid_login :Check message after clicking on login button
+2024-04-22 10:53:13,759 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 10:53:16,499 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 10:56:27,185 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 10:56:30,624 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:00:49,632 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:00:52,432 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:00:58,471 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:00:58,471 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:01:01,292 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:01:01,292 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:01:07,914 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:01:07,914 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:01:07,914 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:01:10,666 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:01:10,666 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:01:10,666 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:01:17,073 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:01:17,073 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:01:17,073 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:01:17,073 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:01:19,770 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:01:19,770 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:01:19,770 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:01:19,770 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:01:26,067 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:01:26,067 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:01:26,067 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:01:26,067 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:01:26,067 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:01:28,805 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:01:28,805 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:01:28,805 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:01:28,805 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:01:28,805 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:02:03,574 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:02:07,003 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:02:14,770 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:02:14,770 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:02:18,816 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:02:18,816 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:02:18,816 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:02:21,516 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:02:21,516 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:02:21,516 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:02:27,812 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:02:27,812 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:02:27,812 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:02:27,812 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:02:31,863 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:02:31,863 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:02:31,863 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:02:31,863 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:02:31,863 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:02:34,465 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:02:34,465 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:02:34,465 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:02:34,465 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:02:34,465 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:11:47,442 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:11:50,103 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:11:56,342 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:11:56,342 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:11:59,118 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:11:59,118 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:12:05,208 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:12:05,208 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:12:05,208 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:12:07,790 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:12:07,790 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:12:07,790 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:12:14,837 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:12:14,837 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:12:14,837 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:12:14,837 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:12:17,438 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:12:17,438 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:12:17,438 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:12:17,438 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:12:23,601 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:12:23,601 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:12:23,601 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:12:23,601 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:12:23,601 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:12:26,226 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:12:26,226 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:12:26,226 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:12:26,226 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:12:26,226 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:16:11,241 :INFO : test_valid_login :Check message after clicking on login button
+2024-04-22 11:16:15,043 :INFO : test_valid_login :Check message after clicking on login button
+2024-04-22 11:16:15,043 :INFO : test_valid_login :Check message after clicking on login button
+2024-04-22 11:16:58,405 :INFO : test_valid_login :Check message after clicking on login button
+2024-04-22 11:17:02,024 :INFO : test_valid_login :Check message after clicking on login button
+2024-04-22 11:17:02,024 :INFO : test_valid_login :Check message after clicking on login button
+2024-04-22 11:19:26,408 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:19:28,835 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:19:35,245 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:19:35,245 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:19:37,971 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:19:37,971 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:19:42,937 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:19:42,937 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:19:42,937 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:19:45,544 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:19:45,544 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:19:45,544 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:19:51,978 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:19:51,978 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:19:51,978 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:19:51,978 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:19:54,592 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:19:54,592 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:19:54,592 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:19:54,592 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:20:00,955 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:20:00,955 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:20:00,955 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:20:00,955 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:20:00,955 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:20:03,921 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:20:03,921 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:20:03,921 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:20:03,921 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:20:03,921 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:20:36,082 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:20:38,886 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:20:45,383 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:20:45,383 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:20:47,673 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:20:47,673 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:20:54,192 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:20:54,192 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:20:54,192 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:20:57,302 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:20:57,302 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:20:57,302 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:21:04,025 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:21:04,025 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:21:04,025 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:21:04,025 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:21:07,298 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:21:07,298 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:21:07,298 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:21:07,298 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:21:13,282 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:21:13,282 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:21:13,282 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:21:13,282 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:21:13,282 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 11:21:15,735 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:21:15,735 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:21:15,735 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:21:15,735 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:21:15,735 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 11:26:43,721 :INFO : test_invalid_login :Login using given username and password
+2024-04-22 11:26:44,962 :INFO : test_invalid_login :Check if error message is displayed.
+2024-04-22 11:26:46,129 :INFO : test_invalid_login :Login using given username and password
+2024-04-22 11:26:46,129 :INFO : test_invalid_login :Login using given username and password
+2024-04-22 11:26:47,373 :INFO : test_invalid_login :Check if error message is displayed.
+2024-04-22 11:26:47,373 :INFO : test_invalid_login :Check if error message is displayed.
+2024-04-22 11:26:48,376 :INFO : test_invalid_login :Login using given username and password
+2024-04-22 11:26:48,376 :INFO : test_invalid_login :Login using given username and password
+2024-04-22 11:26:48,376 :INFO : test_invalid_login :Login using given username and password
+2024-04-22 11:26:49,656 :INFO : test_invalid_login :Check if error message is displayed.
+2024-04-22 11:26:49,656 :INFO : test_invalid_login :Check if error message is displayed.
+2024-04-22 11:26:49,656 :INFO : test_invalid_login :Check if error message is displayed.
+2024-04-22 11:26:50,769 :INFO : test_invalid_login :Login using given username and password
+2024-04-22 11:26:50,769 :INFO : test_invalid_login :Login using given username and password
+2024-04-22 11:26:50,769 :INFO : test_invalid_login :Login using given username and password
+2024-04-22 11:26:50,769 :INFO : test_invalid_login :Login using given username and password
+2024-04-22 11:26:51,901 :INFO : test_invalid_login :Check if error message is displayed.
+2024-04-22 11:26:51,901 :INFO : test_invalid_login :Check if error message is displayed.
+2024-04-22 11:26:51,901 :INFO : test_invalid_login :Check if error message is displayed.
+2024-04-22 11:26:51,901 :INFO : test_invalid_login :Check if error message is displayed.
+2024-04-22 11:26:52,924 :INFO : test_invalid_login :Login using given username and password
+2024-04-22 11:26:52,924 :INFO : test_invalid_login :Login using given username and password
+2024-04-22 11:26:52,924 :INFO : test_invalid_login :Login using given username and password
+2024-04-22 11:26:52,924 :INFO : test_invalid_login :Login using given username and password
+2024-04-22 11:26:52,924 :INFO : test_invalid_login :Login using given username and password
+2024-04-22 11:26:54,162 :INFO : test_invalid_login :Check if error message is displayed.
+2024-04-22 11:26:54,162 :INFO : test_invalid_login :Check if error message is displayed.
+2024-04-22 11:26:54,162 :INFO : test_invalid_login :Check if error message is displayed.
+2024-04-22 11:26:54,162 :INFO : test_invalid_login :Check if error message is displayed.
+2024-04-22 11:26:54,162 :INFO : test_invalid_login :Check if error message is displayed.
+2024-04-22 11:34:54,345 :INFO : test_invalid_registration :Check if email address is valid, any warning message is displayed.
+2024-04-22 11:34:56,753 :INFO : test_invalid_registration :Check if email address is valid, any warning message is displayed.
+2024-04-22 11:34:56,753 :INFO : test_invalid_registration :Check if email address is valid, any warning message is displayed.
+2024-04-22 11:34:59,279 :INFO : test_invalid_registration :Check if email address is valid, any warning message is displayed.
+2024-04-22 11:34:59,279 :INFO : test_invalid_registration :Check if email address is valid, any warning message is displayed.
+2024-04-22 11:34:59,279 :INFO : test_invalid_registration :Check if email address is valid, any warning message is displayed.
+2024-04-22 11:35:01,435 :INFO : test_invalid_registration :Check if email address is valid, any warning message is displayed.
+2024-04-22 11:35:01,435 :INFO : test_invalid_registration :Check if email address is valid, any warning message is displayed.
+2024-04-22 11:35:01,435 :INFO : test_invalid_registration :Check if email address is valid, any warning message is displayed.
+2024-04-22 11:35:01,435 :INFO : test_invalid_registration :Check if email address is valid, any warning message is displayed.
+2024-04-22 12:12:54,276 :INFO : test_invalid_registration :Check if email address is valid, any warning message is displayed.
+2024-04-22 12:12:56,584 :INFO : test_invalid_registration :Check if email address is valid, any warning message is displayed.
+2024-04-22 12:12:56,584 :INFO : test_invalid_registration :Check if email address is valid, any warning message is displayed.
+2024-04-22 12:12:58,830 :INFO : test_invalid_registration :Check if email address is valid, any warning message is displayed.
+2024-04-22 12:12:58,830 :INFO : test_invalid_registration :Check if email address is valid, any warning message is displayed.
+2024-04-22 12:12:58,830 :INFO : test_invalid_registration :Check if email address is valid, any warning message is displayed.
+2024-04-22 12:13:01,025 :INFO : test_invalid_registration :Check if email address is valid, any warning message is displayed.
+2024-04-22 12:13:01,025 :INFO : test_invalid_registration :Check if email address is valid, any warning message is displayed.
+2024-04-22 12:13:01,025 :INFO : test_invalid_registration :Check if email address is valid, any warning message is displayed.
+2024-04-22 12:13:01,025 :INFO : test_invalid_registration :Check if email address is valid, any warning message is displayed.
+2024-04-22 12:13:22,128 :INFO : test_add_particular_products_in_card : Add all products to card having HTML into it.
+2024-04-22 12:13:47,099 :INFO : test_add_particular_products_in_card : Add all products to card having HTML into it.
+2024-04-22 12:14:18,667 :INFO : test_add_particular_products_in_card : Add all products to card having HTML into it.
+2024-04-22 12:18:56,820 :INFO : test_add_particular_products_in_card : Add all products to card having HTML into it.
+2024-04-22 12:19:43,158 :INFO : test_add_particular_products_in_card : Add all products to card having HTML into it.
+2024-04-22 12:20:13,374 :INFO : test_add_particular_products_in_card : Add all products to card having HTML into it.
+2024-04-22 12:21:17,616 :INFO : test_add_particular_products_in_card : Add all products to card having HTML into it.
+2024-04-22 12:21:56,762 :INFO : test_add_particular_products_in_card : Add all products to card having HTML into it.
+2024-04-22 12:22:16,780 :INFO : test_add_particular_products_in_card : Add all products to card having HTML into it.
+2024-04-22 12:22:40,477 :INFO : test_add_particular_products_in_card : Add all products to card having HTML into it.
+2024-04-22 12:23:15,984 :INFO : test_add_particular_products_in_card : Add all products to card having HTML into it.
+2024-04-22 12:25:52,273 :INFO : test_add_products_to_card : Add all products to card.
+2024-04-22 12:25:57,495 :INFO : test_add_particular_products_in_card : Add all products to card having HTML into it.
+2024-04-22 12:25:59,909 :INFO : test_delete_particular_product_from_card :Please enter product to delete, Basket is empty.
+2024-04-22 12:26:00,966 :INFO : test_add_particular_products_in_card : Add all products to card having HTML into it.
+2024-04-22 12:26:00,966 :INFO : test_add_particular_products_in_card : Add all products to card having HTML into it.
+2024-04-22 12:26:02,182 :INFO : test_delete_particular_product_from_card :Delete Android product from card
+2024-04-22 12:26:11,986 :INFO : test_delete_products_from_card :Delete all products from card
+2024-04-22 12:26:18,110 :INFO : test_delete_particular_product_from_card :Delete Android product from card
+2024-04-22 12:26:18,110 :INFO : test_delete_particular_product_from_card :Delete Android product from card
+2024-04-22 12:26:54,885 :INFO : test_add_products_to_card : Add all products to card.
+2024-04-22 12:27:02,458 :INFO : test_add_particular_products_in_card : Add all products to card having HTML into it.
+2024-04-22 12:27:04,774 :INFO : test_delete_particular_product_from_card :Please enter product to delete, Basket is empty.
+2024-04-22 12:27:05,878 :INFO : test_add_particular_products_in_card : Add all products to card having HTML into it.
+2024-04-22 12:27:05,878 :INFO : test_add_particular_products_in_card : Add all products to card having HTML into it.
+2024-04-22 12:27:07,086 :INFO : test_delete_particular_product_from_card :Delete Android product from card
+2024-04-22 12:27:17,005 :INFO : test_delete_products_from_card :Delete all products from card
+2024-04-22 12:27:23,067 :INFO : test_delete_particular_product_from_card :Delete Android product from card
+2024-04-22 12:27:23,067 :INFO : test_delete_particular_product_from_card :Delete Android product from card
+2024-04-22 12:28:19,504 :INFO : test_add_products_to_card : Add all products to card.
+2024-04-22 12:28:25,407 :INFO : test_add_particular_products_in_card : Add all products to card having HTML into it.
+2024-04-22 12:28:27,675 :INFO : test_delete_particular_product_from_card :Please enter product to delete, Basket is empty.
+2024-04-22 12:28:28,798 :INFO : test_add_particular_products_in_card : Add all products to card having HTML into it.
+2024-04-22 12:28:28,798 :INFO : test_add_particular_products_in_card : Add all products to card having HTML into it.
+2024-04-22 12:28:29,975 :INFO : test_delete_particular_product_from_card :Delete Android product from card
+2024-04-22 12:28:39,957 :INFO : test_delete_products_from_card :Delete all products from card
+2024-04-22 12:29:43,737 :INFO : test_add_products_to_card : Add all products to card.
+2024-04-22 12:29:49,520 :INFO : test_add_particular_products_in_card : Add all products to card having HTML into it.
+2024-04-22 12:30:03,747 :INFO : test_delete_products_from_card :Delete all products from card
+2024-04-22 12:30:39,176 :INFO : test_add_products_to_card : Add all products to card.
+2024-04-22 12:30:45,400 :INFO : test_add_particular_products_in_card : Add all products to card having HTML into it.
+2024-04-22 12:30:56,373 :INFO : test_delete_products_from_card :Delete all products from card
+2024-04-22 12:31:02,538 :INFO : test_delete_particular_product_from_card :Delete Android product from card
+2024-04-22 12:32:47,011 :INFO : test_add_particular_products_in_card : Add all products to card having HTML into it.
+2024-04-22 12:32:57,786 :INFO : test_delete_particular_product_from_card :Delete Android product from card
+2024-04-22 12:33:55,542 :INFO : test_add_products_to_card : Add all products to card.
+2024-04-22 12:34:01,645 :INFO : test_add_particular_products_in_card : Add all products to card having HTML into it.
+2024-04-22 12:34:12,594 :INFO : test_delete_products_from_card :Delete all products from card
+2024-04-22 12:35:45,171 :INFO : test_add_products_to_card : Add all products to card.
+2024-04-22 12:35:58,822 :INFO : test_delete_products_from_card :Delete all products from card
+2024-04-22 12:38:12,635 :INFO : test_add_products_to_card : Add all products to card.
+2024-04-22 12:38:44,120 :INFO : test_add_products_to_card : Add all products to card.
+2024-04-22 12:39:01,455 :INFO : test_delete_products_from_card :Delete all products from card
+2024-04-22 12:41:44,410 :INFO : test_add_products_to_card : Add all products to card.
+2024-04-22 12:43:50,334 :INFO : test_add_products_to_card : Add all products to card.
+2024-04-22 12:44:06,337 :INFO : test_delete_products_from_card :Delete all products from card
+2024-04-22 12:45:03,498 :INFO : test_add_products_to_card : Add all products to card.
+2024-04-22 12:48:16,281 :INFO : test_add_products_to_card : Add all products to card.
+2024-04-22 12:49:13,595 :INFO : test_add_products_to_card : Add all products to card.
+2024-04-22 12:50:39,609 :INFO : test_add_products_to_card : Add all products to card.
+2024-04-22 12:50:41,221 :INFO : test_add_products_to_card :Delete All products present in card
+2024-04-22 12:50:55,012 :INFO : test_add_products_to_card : Add all products to card.
+2024-04-22 12:50:56,578 :INFO : test_add_products_to_card :Delete All products present in card
+2024-04-22 12:53:23,741 :INFO : test_add_products_to_card : Add all products to card.
+2024-04-22 12:53:25,191 :INFO : test_add_products_to_card :Delete All products present in card
+2024-04-22 12:53:50,131 :INFO : test_add_products_to_card : Add all products to card.
+2024-04-22 12:53:51,774 :INFO : test_add_products_to_card :Delete All products present in card
+2024-04-22 12:54:02,083 :INFO : test_add_products_to_card : Add all products to card.
+2024-04-22 12:54:03,474 :INFO : test_add_products_to_card :Delete All products present in card
+2024-04-22 12:54:33,736 :INFO : test_add_products_to_card : Add all products to card.
+2024-04-22 12:54:35,125 :INFO : test_add_products_to_card :Delete All products present in card
+2024-04-22 12:55:48,721 :INFO : test_add_products_to_card : Add all products to card.
+2024-04-22 12:55:50,254 :INFO : test_add_products_to_card :Delete All products present in card
+2024-04-22 12:56:34,011 :INFO : test_add_products_to_card : Add all products to card.
+2024-04-22 12:56:35,470 :INFO : test_add_products_to_card :Delete All products present in card
+2024-04-22 12:58:00,612 :INFO : test_add_products_to_card : Add all products to card.
+2024-04-22 12:58:02,274 :INFO : test_add_products_to_card :Delete All products present in card
+2024-04-22 12:58:27,840 :INFO : test_add_products_to_card : Add all products to card.
+2024-04-22 12:58:42,881 :INFO : test_add_products_to_card : Add all products to card.
+2024-04-22 12:58:44,923 :INFO : test_add_products_to_card :Delete All products present in card
+2024-04-22 12:59:27,355 :INFO : test_add_products_to_card : Add all products to card.
+2024-04-22 12:59:31,232 :INFO : test_add_products_to_card :Delete All products present in card
+2024-04-22 13:33:45,728 :INFO : test_add_products_to_card : Add all products to card.
+2024-04-22 13:34:14,986 :INFO : test_add_products_to_card : Add all products to card.
+2024-04-22 13:39:30,318 :INFO : test_add_products_to_card : Add all products to card.
+2024-04-22 13:40:03,832 :INFO : test_add_products_to_card : Add all products to card.
+2024-04-22 13:42:37,962 :INFO : test_add_products_to_card : Add all products to card.
+2024-04-22 13:42:39,425 :INFO : test_add_products_to_card :Delete All products present in card
+2024-04-22 13:44:05,351 :INFO : test_add_products_to_card : Add all products to card.
+2024-04-22 13:44:27,273 :INFO : test_add_products_to_card :Delete All products present in card
+2024-04-22 13:46:13,238 :INFO : test_add_products_to_card : Add all products to card.
+2024-04-22 13:47:07,542 :INFO : test_add_products_to_card : Add all products to card.
+2024-04-22 13:49:28,167 :INFO : test_add_products_to_card : Add all products to card.
+2024-04-22 13:49:30,229 :INFO : test_add_products_to_card :Delete All products present in card
+2024-04-22 13:49:47,253 :INFO : test_add_products_to_card : Add all products to card.
+2024-04-22 13:49:48,945 :INFO : test_add_products_to_card :Delete All products present in card
+2024-04-22 13:56:01,874 :INFO : test_add_products_to_card : Add all products to card.
+2024-04-22 13:56:03,493 :INFO : test_add_products_to_card :Delete All products present in card
+2024-04-22 13:57:14,617 :INFO : test_add_products_to_card : Add all products to card.
+2024-04-22 13:57:18,351 :INFO : test_add_products_to_card :Delete All products present in card
+2024-04-22 13:57:50,260 :INFO : test_add_products_to_card : Add all products to card.
+2024-04-22 13:57:51,745 :INFO : test_add_products_to_card :Delete All products present in card
+2024-04-22 13:58:13,545 :INFO : test_add_products_to_card : Add all products to card.
+2024-04-22 13:58:15,052 :INFO : test_add_products_to_card :Delete All products present in card
+2024-04-22 13:58:56,355 :INFO : test_add_products_to_card : Add all products to card.
+2024-04-22 13:59:00,198 :INFO : test_add_products_to_card :Delete All products present in card
+2024-04-22 13:59:22,622 :INFO : test_add_products_to_card : Add all products to card.
+2024-04-22 13:59:26,310 :INFO : test_add_products_to_card :Delete All products present in card
+2024-04-22 14:00:15,518 :INFO : test_add_particular_products_in_card : Add all products to card having HTML into it.
+2024-04-22 14:00:26,617 :INFO : test_delete_particular_product_from_card :Delete Android product from card
+2024-04-22 14:02:40,162 :INFO : test_add_particular_products_in_card : Add all products to card having HTML into it.
+2024-04-22 14:05:15,769 :INFO : test_add_particular_products_in_card : Add all products to card having HTML into it.
+2024-04-22 14:05:38,481 :INFO : test_add_particular_products_in_card : Add all products to card having HTML into it.
+2024-04-22 14:06:37,422 :INFO : test_add_particular_products_in_card : Add all products to card having HTML into it.
+2024-04-22 14:08:18,063 :INFO : test_add_particular_products_in_card : Add all products to card having HTML into it.
+2024-04-22 14:08:28,000 :INFO : test_add_particular_products_in_card : Add all products to card having HTML into it.
+2024-04-22 14:09:01,246 :INFO : test_add_particular_products_in_card : Add all products to card having HTML into it.
+2024-04-22 14:09:10,738 :INFO : test_add_particular_products_in_card : Add all products to card having HTML into it.
+2024-04-22 14:09:37,616 :INFO : test_add_particular_products_in_card : Add all products to card having HTML into it.
+2024-04-22 14:09:51,888 :INFO : test_add_particular_products_in_card : Add all products to card having HTML into it.
+2024-04-22 14:10:15,013 :INFO : test_add_particular_products_in_card : Add all products to card having HTML into it.
+2024-04-22 14:10:38,735 :INFO : test_add_particular_products_in_card : Add all products to card having HTML into it.
+2024-04-22 14:12:18,735 :INFO : test_add_products_to_card : Add all products to card.
+2024-04-22 14:12:20,382 :INFO : test_add_products_to_card :Delete All products present in card
+2024-04-22 14:12:52,785 :INFO : test_add_products_to_card : Add all products to card.
+2024-04-22 14:12:54,162 :INFO : test_add_products_to_card :Delete All products present in card
+2024-04-22 14:13:40,138 :INFO : test_add_products_to_card : Add all products to card.
+2024-04-22 14:13:41,804 :INFO : test_add_products_to_card :Delete All products present in card
+2024-04-22 14:14:22,676 :INFO : test_add_products_to_card : Add all products to card.
+2024-04-22 14:14:26,593 :INFO : test_add_products_to_card :Delete All products present in card
+2024-04-22 14:15:06,441 :INFO : test_add_products_to_card : Add all products to card.
+2024-04-22 14:15:09,444 :INFO : test_add_products_to_card :Delete All products present in card
+2024-04-22 14:15:57,022 :INFO : test_add_products_to_card : Add all products to card.
+2024-04-22 14:15:58,649 :INFO : test_add_products_to_card :Delete All products present in card
+2024-04-22 14:16:51,370 :INFO : test_add_products_to_card : Add all products to card.
+2024-04-22 14:17:10,285 :INFO : test_add_products_to_card : Add all products to card.
+2024-04-22 14:17:11,976 :INFO : test_add_products_to_card :Delete All products present in card
+2024-04-22 14:18:50,885 :INFO : test_add_products_to_card : Add all products to card.
+2024-04-22 14:18:52,859 :INFO : test_add_products_to_card :Delete All products present in card
+2024-04-22 14:20:05,118 :INFO : test_add_products_to_card : Add all products to card.
+2024-04-22 14:20:09,072 :INFO : test_add_products_to_card :Delete All products present in card
+2024-04-22 14:41:20,301 :INFO : test_invalid_delete_product_from_card : Add all products to card having HTML into it.
+2024-04-22 14:41:21,587 :INFO : test_invalid_delete_product_from_card :Inserted element is differnt and we are trying to delete another element or element is not given
+2024-04-22 14:41:22,715 :INFO : test_invalid_delete_product_from_card : Add all products to card having HTML into it.
+2024-04-22 14:41:22,715 :INFO : test_invalid_delete_product_from_card : Add all products to card having HTML into it.
+2024-04-22 14:41:24,027 :INFO : test_invalid_delete_product_from_card :Inserted element is differnt and we are trying to delete another element or element is not given
+2024-04-22 14:41:24,027 :INFO : test_invalid_delete_product_from_card :Inserted element is differnt and we are trying to delete another element or element is not given
+2024-04-22 15:24:34,032 :INFO : test_add_delete_particular_products_in_card : Add all products to card having HTML into it.
+2024-04-22 15:24:35,609 :INFO : test_add_delete_particular_products_in_card :Product name is invalid so no product is inserted
+2024-04-22 15:24:36,814 :INFO : test_add_delete_particular_products_in_card : Add all products to card having HTML into it.
+2024-04-22 15:24:36,814 :INFO : test_add_delete_particular_products_in_card : Add all products to card having HTML into it.
+2024-04-22 15:25:22,100 :INFO : test_add_delete_particular_products_in_card : Add all products to card having HTML into it.
+2024-04-22 15:25:23,591 :INFO : test_add_delete_particular_products_in_card :Product name is invalid so no product is inserted
+2024-04-22 15:25:25,195 :INFO : test_add_delete_particular_products_in_card : Add all products to card having HTML into it.
+2024-04-22 15:25:25,195 :INFO : test_add_delete_particular_products_in_card : Add all products to card having HTML into it.
+2024-04-22 15:26:15,211 :INFO : test_add_delete_particular_products_in_card : Add all products to card having HTML into it.
+2024-04-22 15:26:21,489 :INFO : test_add_delete_particular_products_in_card : Add all products to card having HTML into it.
+2024-04-22 15:26:21,489 :INFO : test_add_delete_particular_products_in_card : Add all products to card having HTML into it.
+2024-04-22 15:29:36,763 :INFO : test_add_delete_particular_products_in_card : Add all products to card having HTML into it.
+2024-04-22 15:29:38,010 :INFO : test_add_delete_particular_products_in_card : Add all products to card having HTML into it.
+2024-04-22 15:29:38,010 :INFO : test_add_delete_particular_products_in_card : Add all products to card having HTML into it.
+2024-04-22 16:03:52,220 :INFO : test_invalid_product_price_add : Add all products to card having HTML into it.
+2024-04-22 16:03:53,026 :INFO : test_invalid_product_price_add : Add all products to card having HTML into it.
+2024-04-22 16:03:53,026 :INFO : test_invalid_product_price_add : Add all products to card having HTML into it.
+2024-04-22 16:08:05,934 :INFO : test_shop_by_price_filter : Add all products to card.
+2024-04-22 16:21:40,644 :INFO : test_shop_by_price_filter : Add all products to card.
+2024-04-22 16:22:47,752 :INFO : test_shop_by_price_filter : Add all products to card.
+2024-04-22 16:44:27,327 :INFO : test_shop_by_category_filter : Add all products to card.
+2024-04-22 16:44:30,965 :INFO : test_shop_by_category_filter : Add all products to card.
+2024-04-22 16:44:30,965 :INFO : test_shop_by_category_filter : Add all products to card.
+2024-04-22 22:18:27,244 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 22:18:29,706 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-22 22:21:42,461 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 22:22:05,467 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 22:22:32,750 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-22 22:22:35,193 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-23 06:26:47,182 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-23 06:27:17,864 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-23 06:27:41,235 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-23 06:39:42,028 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-23 06:41:05,259 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-23 06:44:10,811 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-23 06:46:17,038 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-23 06:46:19,579 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-23 06:46:52,691 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-23 06:46:55,435 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-23 06:47:22,280 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-23 06:47:25,406 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-23 06:48:14,683 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-23 06:48:17,555 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-23 06:52:42,394 :INFO : test_valid_login :Check message after clicking on login button
+2024-04-23 06:52:46,109 :INFO : test_valid_login :Check message after clicking on login button
+2024-04-23 06:53:21,680 :INFO : test_valid_login :Check message after clicking on login button
+2024-04-23 06:53:25,385 :INFO : test_valid_login :Check message after clicking on login button
+2024-04-23 06:57:58,904 :INFO : test_valid_login :Check message after clicking on login button
+2024-04-23 06:58:02,540 :INFO : test_valid_login :Check message after clicking on login button
+2024-04-23 07:04:41,451 :INFO : test_valid_login :Check message after clicking on login button
+2024-04-23 07:04:45,190 :INFO : test_valid_login :Check message after clicking on login button
+2024-04-23 07:05:15,135 :INFO : test_valid_login :Check message after clicking on login button
+2024-04-23 07:05:18,711 :INFO : test_valid_login :Check message after clicking on login button
+2024-04-23 07:23:07,954 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-23 07:25:19,484 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-23 07:36:57,480 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-23 07:37:00,125 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-23 07:37:03,806 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-23 07:37:52,442 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-23 07:40:11,509 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-23 07:40:26,180 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-23 07:40:44,519 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-23 07:40:46,832 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-23 07:40:50,711 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-23 07:41:29,718 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-23 07:41:32,614 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-23 07:41:38,989 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-23 07:41:41,575 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-23 07:41:47,434 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-23 07:41:50,128 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-23 07:41:55,722 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-23 07:41:58,358 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-23 07:42:04,555 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-23 07:42:07,518 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-23 07:42:14,026 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-23 07:42:16,601 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-23 07:46:38,171 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-23 07:46:40,527 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-23 07:46:46,187 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-23 07:46:48,311 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-23 07:46:54,463 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-23 07:46:56,845 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-23 07:47:02,533 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-23 07:47:04,743 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-23 07:47:10,150 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-23 07:47:12,621 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-23 07:47:18,106 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-23 07:47:20,569 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-23 07:48:23,835 :INFO : test_edit_address_and_save :Edit billing address of user.
+2024-04-23 07:48:28,088 :INFO : test_edit_address_and_save :Edit shipping address of user.
+2024-04-23 08:41:58,464 :INFO : test_data_driven_invalid_edit_address :Edit billing address of user.
+2024-04-23 08:43:10,428 :INFO : test_data_driven_invalid_edit_address :Edit billing address of user.
+2024-04-23 08:43:12,880 :INFO : test_data_driven_invalid_edit_address :Edit shipping address of user.
+2024-04-23 08:43:19,519 :INFO : test_data_driven_invalid_edit_address :Edit billing address of user.
+2024-04-23 08:43:21,867 :INFO : test_data_driven_invalid_edit_address :Edit shipping address of user.
+2024-04-23 08:43:27,346 :INFO : test_data_driven_invalid_edit_address :Edit billing address of user.
+2024-04-23 08:43:29,344 :INFO : test_data_driven_invalid_edit_address :Edit shipping address of user.
+2024-04-23 08:43:34,710 :INFO : test_data_driven_invalid_edit_address :Edit billing address of user.
+2024-04-23 08:43:36,876 :INFO : test_data_driven_invalid_edit_address :Edit shipping address of user.
+2024-04-23 08:44:44,921 :INFO : test_data_driven_invalid_edit_address :Edit billing address of user.
+2024-04-23 08:44:46,827 :INFO : test_data_driven_invalid_edit_address :Edit shipping address of user.
+2024-04-23 08:48:16,787 :INFO : test_data_driven_invalid_edit_address :Edit billing address of user.
+2024-04-23 08:48:19,151 :INFO : test_data_driven_invalid_edit_address :Edit shipping address of user.
+2024-04-23 08:49:19,180 :INFO : test_data_driven_invalid_edit_address :Edit billing address of user.
+2024-04-23 08:49:23,707 :INFO : test_data_driven_invalid_edit_address :Edit billing address of user.
+2024-04-23 08:49:27,970 :INFO : test_data_driven_invalid_edit_address :Edit billing address of user.
+2024-04-23 08:49:32,067 :INFO : test_data_driven_invalid_edit_address :Edit billing address of user.
+2024-04-23 08:49:35,970 :INFO : test_data_driven_invalid_edit_address :Edit billing address of user.
+2024-04-23 08:49:39,406 :INFO : test_data_driven_invalid_edit_address :Edit billing address of user.
+2024-04-23 08:56:55,431 :INFO : test_masked_password :Check type of password.
+2024-04-23 09:14:37,042 :INFO : test_invalid_delete_product_from_card : Add all products to card having HTML into it.
+2024-04-23 09:14:38,184 :INFO : test_invalid_delete_product_from_card : Add all products to card having HTML into it.
+2024-04-23 09:14:38,184 :INFO : test_invalid_delete_product_from_card : Add all products to card having HTML into it.
+2024-04-23 09:16:36,376 :INFO : test_invalid_delete_product_from_card : Add all products to card having HTML into it.
+2024-04-23 09:16:37,781 :INFO : test_invalid_delete_product_from_card : Add all products to card having HTML into it.
+2024-04-23 09:16:37,781 :INFO : test_invalid_delete_product_from_card : Add all products to card having HTML into it.
+2024-04-23 09:17:39,271 :INFO : test_invalid_delete_product_from_card : Add all products to card having HTML into it.
+2024-04-23 09:17:41,266 :INFO : test_invalid_delete_product_from_card : Add all products to card having HTML into it.
+2024-04-23 09:17:41,266 :INFO : test_invalid_delete_product_from_card : Add all products to card having HTML into it.
+2024-04-23 09:18:02,987 :INFO : test_invalid_delete_product_from_card : Add all products to card having HTML into it.
+2024-04-23 09:18:04,971 :INFO : test_invalid_delete_product_from_card : Add all products to card having HTML into it.
+2024-04-23 09:18:04,971 :INFO : test_invalid_delete_product_from_card : Add all products to card having HTML into it.
+2024-04-23 09:20:20,039 :INFO : test_invalid_delete_product_from_card : Add all products to card having HTML into it.
+2024-04-23 09:20:35,430 :INFO : test_invalid_delete_product_from_card : Add all products to card having HTML into it.
+2024-04-23 09:20:36,482 :INFO : test_invalid_delete_product_from_card : Add all products to card having HTML into it.
+2024-04-23 09:20:36,482 :INFO : test_invalid_delete_product_from_card : Add all products to card having HTML into it.
+2024-04-23 09:21:47,850 :INFO : test_shop_by_category_filter : Add all products to card.
+2024-04-23 09:21:50,028 :INFO : test_shop_by_category_filter : Add all products to card.
+2024-04-23 09:21:50,028 :INFO : test_shop_by_category_filter : Add all products to card.
+2024-04-23 09:23:37,733 :INFO : test_shop_by_category_filter : Add all products to card.
+2024-04-23 09:24:22,259 :INFO : test_shop_by_category_filter : Add all products to card.
+2024-04-23 09:25:16,192 :INFO : test_shop_by_category_filter : Add all products to card.
+2024-04-23 09:25:51,491 :INFO : test_shop_by_category_filter : Add all products to card.
+2024-04-23 09:26:20,651 :INFO : test_shop_by_category_filter : Add all products to card.
+2024-04-23 09:28:10,999 :INFO : test_shop_by_category_filter : Add all products to card.
+2024-04-23 09:33:21,807 :INFO : test_add_delete_products_to_card : Add all products to card.
+2024-04-23 09:33:23,356 :INFO : test_add_delete_products_to_card :Delete All products present in card
+2024-04-23 09:36:46,493 :INFO : test_add_delete_products_to_card : Add all products to card.
+2024-04-23 09:36:47,905 :INFO : test_add_delete_products_to_card :Delete All products present in card
+2024-04-23 09:37:19,899 :INFO : test_add_delete_products_to_card : Add all products to card.
+2024-04-23 09:39:03,666 :INFO : test_add_delete_products_to_card : Add all products to card.
+2024-04-23 09:39:05,151 :INFO : test_add_delete_products_to_card :Delete All products present in card
